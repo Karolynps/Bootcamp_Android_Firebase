@@ -16,13 +16,14 @@
 
     <ImageView
         android:id="@+id/logo"
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:src="@drawable/logo_login"
-        app:layout_constraintStart_toStartOf="parent"
+        android:layout_width="181dp"
+        android:layout_height="193dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/logo"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-    
+
     <View
         android:id="@+id/containerComponents"
         style="@style/ContainerComponents"

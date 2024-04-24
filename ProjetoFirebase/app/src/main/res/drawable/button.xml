@@ -5,6 +5,6 @@
     <gradient
         android:startColor="@color/pink_light"
         android:centerColor="@color/pink"
-        android:endColor="@color/orange"
+        android:endColor="@color/pink_light"
         android:angle="180"/>
 </shape>
